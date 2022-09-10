@@ -161,6 +161,8 @@ div {
         box-shadow: none; }
     #sidebar .widget .author-info {
       text-align: center; }
+      #sidebar .widget .author-info p {
+        text-align: left; }
       #sidebar .widget .author-info a.info-avatar img {
         border-radius: 50%;
         padding: 4px;
@@ -169,7 +171,7 @@ div {
         background-color: transparent;
         box-shadow: 0 0 10px rgba(0, 0, 0, 0.2); }
       #sidebar .widget .author-info a.info-icon {
-        font-size: 25px; }
+        font-size: 40px; }
 
 /* title for search result or tagged posts*/
 .label-title {
